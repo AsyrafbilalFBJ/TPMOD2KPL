@@ -1,0 +1,9 @@
+E:\Tugas Tel-U\semester 4\KONSTRUKSI PERANGKAT LUNAK\visual projek\TPMOD2KPL\TPMOD2KPL\bin\Debug\TPMOD2KPL.exe.config
+E:\Tugas Tel-U\semester 4\KONSTRUKSI PERANGKAT LUNAK\visual projek\TPMOD2KPL\TPMOD2KPL\bin\Debug\TPMOD2KPL.exe
+E:\Tugas Tel-U\semester 4\KONSTRUKSI PERANGKAT LUNAK\visual projek\TPMOD2KPL\TPMOD2KPL\bin\Debug\TPMOD2KPL.pdb
+E:\Tugas Tel-U\semester 4\KONSTRUKSI PERANGKAT LUNAK\visual projek\TPMOD2KPL\TPMOD2KPL\obj\Debug\TPMOD2KPL.csprojResolveAssemblyReference.cache
+E:\Tugas Tel-U\semester 4\KONSTRUKSI PERANGKAT LUNAK\visual projek\TPMOD2KPL\TPMOD2KPL\obj\Debug\TPMOD2KPL.Form1.resources
+E:\Tugas Tel-U\semester 4\KONSTRUKSI PERANGKAT LUNAK\visual projek\TPMOD2KPL\TPMOD2KPL\obj\Debug\TPMOD2KPL.Properties.Resources.resources
+E:\Tugas Tel-U\semester 4\KONSTRUKSI PERANGKAT LUNAK\visual projek\TPMOD2KPL\TPMOD2KPL\obj\Debug\TPMOD2KPL.csproj.GenerateResource.Cache
+E:\Tugas Tel-U\semester 4\KONSTRUKSI PERANGKAT LUNAK\visual projek\TPMOD2KPL\TPMOD2KPL\obj\Debug\TPMOD2KPL.exe
+E:\Tugas Tel-U\semester 4\KONSTRUKSI PERANGKAT LUNAK\visual projek\TPMOD2KPL\TPMOD2KPL\obj\Debug\TPMOD2KPL.pdb
